@@ -1,4 +1,4 @@
-🎮 Simon Says Game (JavaScript)
+#🎮 Simon Says Game (JavaScript)
 
 1️⃣ 🧠 Memory Challenge
 A classic Simon Says game built using HTML, CSS, and JavaScript.
